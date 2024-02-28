@@ -1,0 +1,23 @@
+body {
+    background-color:lemonchiffon;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align:center;
+
+}
+
+h2,h3,h4,h5,h5 {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-transform: uppercase;
+}
+
+img {
+    border-radius:50% ;
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 5%;
+}
