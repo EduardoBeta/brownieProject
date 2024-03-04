@@ -1,0 +1,50 @@
+body {
+    background-color:rgb(239, 255, 116);
+}
+
+h1 {
+    text-align: center; /* Centra el texto del título */
+}
+
+
+h1 {
+    font-family: cursive;
+
+}
+
+h2,h3,h4,h5,h5 {
+   font-family: cursive;
+   text-transform: uppercase;
+}
+
+img {
+    border-radius:60% ;
+    margin-left: 10cm;
+}
+
+
+li {
+    font-family:cursive;
+    margin-bottom: 5%;
+}
+
+
+p {
+    font-family: cursive;
+}
+
+h2 {
+     border: 7px solid rgb(122, 5, 5);
+     text-align:center;
+}
+
+h2 {
+    font-style: unset;
+}
+
+p {
+    font-family: cursive;
+}
+
+
+
